@@ -1,4 +1,4 @@
-package com.ntu.way2fungames;
+package com.nsu.way2fungames;
 
 public class W2FGLObject {
 

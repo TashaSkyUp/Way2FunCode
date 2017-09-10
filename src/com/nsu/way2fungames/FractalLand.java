@@ -1,11 +1,11 @@
-package com.ntu.way2fungames;
+package com.nsu.way2fungames;
 
 import java.awt.Image;
 import java.awt.image.BufferedImage;
 
 import javax.swing.plaf.metal.OceanTheme;
 
-import com.ntu.way2fungames.*;
+import com.nsu.way2fungames.*;
 
 public class FractalLand extends Fractal {
 protected static float oceanLevel = .33f;

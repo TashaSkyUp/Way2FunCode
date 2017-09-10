@@ -1,4 +1,4 @@
-package com.ntu.way2fungames;
+package com.nsu.way2fungames;
 import java.io.*;
 import java.nio.Buffer;
 import java.nio.CharBuffer;

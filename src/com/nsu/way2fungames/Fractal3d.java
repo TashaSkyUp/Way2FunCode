@@ -1,7 +1,8 @@
-package com.ntu.way2fungames;
+package com.nsu.way2fungames;
 
 import java.nio.Buffer;
-import com.ntu.way2fungames.*;
+
+import com.nsu.way2fungames.*;
 public class Fractal3d {
 
 	public static float[] vectorProductMJN(float[] a, float[] b){
