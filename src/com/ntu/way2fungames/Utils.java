@@ -304,6 +304,9 @@ public final class Utils {
         
 }
 
+//String urlString = "http://minimapserver.azurewebsites.net/MyTester/"; //azure
+
+
 
 
 
